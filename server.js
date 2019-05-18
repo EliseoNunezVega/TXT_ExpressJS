@@ -4,6 +4,7 @@ var app = new express();
 
 var port = 3000;
 
+/*THIS CODE CAN ALSO RENDER THE HTML FILES IN THE BROWSER BUT ONLY IF WE CHANGE THE FILE TYPES TO .ejs*/
 /*app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
